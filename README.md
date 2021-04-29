@@ -1,2 +1,6 @@
 # hello-world
-MY first Repository
+My First repository
+
+Hello 
+
+I am Kavi, interested in coding and programming
